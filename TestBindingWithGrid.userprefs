@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="iOS/TestBindingWithGrid.iOS.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhone6s.9.3" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestBindingWithGrid/BoolHeightConverter.cs">
+    <Files>
+      <File FileName="TestBindingWithGrid/MyPage.cs" Line="22" Column="89" />
+      <File FileName="../../Soluzione1/fev_distribuzione/Fev-distribuzione/Pages/PageIsoleSlot.cs" Line="214" Column="1" />
+      <File FileName="TestBindingWithGrid/TestBindingWithGrid.cs" Line="10" Column="17" />
+      <File FileName="TestBindingWithGrid/FodyWeavers.xml" Line="3" Column="21" />
+      <File FileName="TestBindingWithGrid/Globali.cs" Line="10" Column="9" />
+      <File FileName="TestBindingWithGrid/BoolHeightConverter.cs" Line="21" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
